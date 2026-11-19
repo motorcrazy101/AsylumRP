@@ -12,9 +12,25 @@
 <p align="center">
   <a href="../../releases/latest"><b>⬇️ Download</b></a>
   &nbsp;•&nbsp;
+  <a href="https://youtu.be/_ycvMe-vBwQ"><b>🎥 Video Tutorial</b></a>
+  &nbsp;•&nbsp;
   <a href="https://discord.gg/anime-asylum"><b>💬 Join Anime Asylum</b></a>
   &nbsp;•&nbsp;
   <a href="TERMS.md"><b>📜 Terms of Service</b></a>
+</p>
+
+---
+
+## 🎥 Video tutorial
+
+New to AsylumRP? Watch how to download, install and run it:
+
+<p align="center">
+  <a href="https://youtu.be/_ycvMe-vBwQ">
+    <img src="https://img.youtube.com/vi/_ycvMe-vBwQ/hqdefault.jpg" alt="Watch the AsylumRP video tutorial" width="560">
+  </a>
+  <br>
+  <a href="https://youtu.be/_ycvMe-vBwQ"><b>▶️ Watch on YouTube</b></a>
 </p>
 
 ---
@@ -38,6 +54,8 @@
 ---
 
 ## ⬇️ Download & install
+
+> 🎥 Prefer to watch? **[Video tutorial](https://youtu.be/_ycvMe-vBwQ)**
 
 1. Go to **[Releases](../../releases/latest)** and download the **AsylumRP** zip.
 2. Right-click the zip → **Extract All…** and pick where to keep it.
@@ -127,7 +145,7 @@ Example: Details `Activity Status` + URL `https://site.com/my-gif.gif` → click
 | **I can't see my buttons** | Normal. Discord hides your own buttons from you; others can see them |
 | **Program won't open** | Make sure `_internal` is in the same folder as `AsylumRP.exe` |
 
-Still stuck? Ask in **[Anime Asylum](https://discord.gg/anime-asylum)**.
+Still stuck? Watch the **[video tutorial](https://youtu.be/_ycvMe-vBwQ)** or ask in **[Anime Asylum](https://discord.gg/anime-asylum)**.
 
 ---
 
