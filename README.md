@@ -51,6 +51,21 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🎨 **Themes:** Asylum (neon), Dark and Light
 - 🖥️ **Runs quietly:** minimizes to the tray, reconnects automatically and can start with Windows
 
+### 🆕 New in v3.3
+- 🌸 **AniList:** show what you're watching, with the anime's cover art, updated automatically
+- 📺 **Next episode countdown:** count down to an anime's next episode
+- 🎵 **Spotify:** show the song you're listening to with `{song}` and `{artist}`
+- 💬 **`{quote}`:** a random anime quote
+- 🤖 **App triggers & schedules:** switch profiles automatically when an app opens or at certain times
+- ⌨️ **Global hotkeys:** Ctrl+Alt shortcuts that work even when AsylumRP is hidden
+- 📚 **Study timer:** a Pomodoro timer that shows your study session on your status
+- 🎙️ **Voice clips:** record your voice and paste it into any Discord chat with Ctrl+V
+- 👥 **`{members}` / `{online}`:** live Anime Asylum member counts
+- 📋 **Community templates:** official Anime Asylum statuses, updated by us
+- 🔗 **Share codes:** share your whole setup as one short code
+- 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
+- 🔔 **Update checker:** AsylumRP tells you when a new version is out
+
 ---
 
 ## ⬇️ Download & install
@@ -132,6 +147,17 @@ Example: Details `Activity Status` + URL `https://site.com/my-gif.gif` → click
 | **F1** | Getting Started |
 | **Ctrl + Q** | Quit |
 
+**Global hotkeys** (work anywhere, even when AsylumRP is hidden):
+
+| Keys | Action |
+|---|---|
+| **Ctrl + Alt + 1-9** | Switch to profile 1-9 |
+| **Ctrl + Alt + A** | Go AFK / come back |
+| **Ctrl + Alt + P** | Pause / resume your status |
+| **Ctrl + Alt + R** | Record / stop a voice clip |
+| **Ctrl + Alt + T** | Start / stop the study timer |
+| **Ctrl + Alt + S** | Show / hide AsylumRP |
+
 ---
 
 ## ❓ Troubleshooting
@@ -144,6 +170,9 @@ Example: Details `Activity Status` + URL `https://site.com/my-gif.gif` → click
 | **Picture doesn't show** | Wait a few minutes after uploading, and check the name matches exactly |
 | **I can't see my buttons** | Normal. Discord hides your own buttons from you; others can see them |
 | **Program won't open** | Make sure `_internal` is in the same folder as `AsylumRP.exe` |
+| **Using Discord in a browser** | Custom statuses need the [Discord desktop app](https://discord.com/download). It can run in the background |
+| **AniList shows nothing** | Make sure your AniList list is public and the username is spelled right |
+| **Voice clip won't record** | Windows Settings → Privacy → Microphone → allow desktop apps |
 
 Still stuck? Watch the **[video tutorial](https://youtu.be/_ycvMe-vBwQ)** or ask in **[Anime Asylum](https://discord.gg/anime-asylum)**.
 
@@ -156,6 +185,10 @@ Everything you save is stored only on your computer:
 C:\Users\<your name>\.asylumrp\profiles.json
 ```
 Open it with **File → Open Settings Folder** inside AsylumRP.
+
+AsylumRP also makes an automatic weekly backup in `.asylumrp\backups`, and you can make your own with **File → Backup Everything**. Voice clips are saved in `.asylumrp\clips`.
+
+**Updating:** AsylumRP tells you when a new version is out. Download it, replace your AsylumRP folder, and your profiles and settings are kept.
 
 **To uninstall:** turn off **Settings → Run When Windows Starts** (if it's on), quit AsylumRP, delete the AsylumRP folder, and optionally delete the `.asylumrp` folder above.
 

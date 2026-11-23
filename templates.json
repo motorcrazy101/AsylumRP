@@ -1,0 +1,39 @@
+{
+  "_how_to_edit": "Each template needs a name. Allowed fields: type (Playing / Listening to / Watching / Competing in), details, state, details_url, state_url, large_image, large_text, small_image, small_text, btn1_label, btn1_url, btn2_label, btn2_url. Members see changes the next time they open AsylumRP.",
+  "templates": [
+    {
+      "name": "Anime Asylum member",
+      "type": "Playing",
+      "details": "Hanging out in Anime Asylum",
+      "state": "{members} members • {online} online",
+      "btn1_label": "Join Anime Asylum",
+      "btn1_url": "https://discord.gg/anime-asylum"
+    },
+    {
+      "name": "Anime night",
+      "type": "Watching",
+      "details": "Anime night in the asylum 🍿",
+      "state": "Pull up a chair",
+      "btn1_label": "Join the watch party",
+      "btn1_url": "https://discord.gg/anime-asylum"
+    },
+    {
+      "name": "Seasonal binge",
+      "type": "Watching",
+      "details": "Catching up on this season",
+      "state": "{random:Just one more episode|Sleep is for the weak|No spoilers please}"
+    },
+    {
+      "name": "Manga corner",
+      "type": "Playing",
+      "details": "Reading manga in the asylum 📖",
+      "state": "{time} and still reading"
+    },
+    {
+      "name": "Quote of the moment",
+      "type": "Playing",
+      "details": "Anime Asylum",
+      "state": "{quote}"
+    }
+  ]
+}
