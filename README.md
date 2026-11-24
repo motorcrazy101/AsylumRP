@@ -60,13 +60,27 @@ New to AsylumRP? Watch how to download, install and run it:
 - ⌨️ **Global hotkeys:** Ctrl+Alt shortcuts that work even when AsylumRP is hidden
 - 📚 **Study timer:** a Pomodoro timer that shows your study session on your status
 - 🎙️ **Voice clips:** record your voice and paste it into any Discord chat with Ctrl+V
+- 🎬 **Watch (no ads):** paste a video link and watch it ad-free with the built-in player
+- 🎶 **Now Playing:** show your Spotify or YouTube song automatically
+- 🎮 **Auto game status:** detects your game and shows "Playing <game>"
+- 🔴 **Twitch Live:** switches your status to LIVE when you start streaming
+- 🤐 **Streamer / Privacy mode:** hide app, song and PC stats in one click
 - 👥 **`{members}` / `{online}`:** live Anime Asylum member counts
 - 📋 **Community templates:** official Anime Asylum statuses, updated by us
 - 🔗 **Share codes:** share your whole setup as one short code
 - 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
 - 🔔 **Update checker:** AsylumRP tells you when a new version is out
 
+### 🆕 New in v3.6
+- 🎶 **Now Playing (universal):** your status can show your song from **Spotify or YouTube**, not just Spotify.
+- 🎮 **Auto game status:** AsylumRP spots popular games and shows "Playing <game>" on its own.
+- 🔴 **Twitch Live:** go live and your status flips to a clickable LIVE badge; it switches back when you stop.
+- 🤐 **Streamer / Privacy mode:** one toggle hides your app, song and PC stats so nothing leaks on stream.
+- 🔔 **Update sound & pop-up** when your status changes, with a Test button.
+- ⭐ **One-click update:** when a new version is out, click **Update Now** and AsylumRP installs it and restarts itself.
+
 ### 🆕 New in v3.5
+- 🎬 **Watch tab:** paste a YouTube/Twitch/Vimeo link and watch it ad-free. The first time, AsylumRP installs two free players (mpv + yt-dlp). Nothing is saved — it just streams.
 - 💎 **VIP access:** AsylumRP is now a perk for **VIP Insane Elite** members. Log in with Discord once and AsylumRP checks your Anime Asylum role (every 5 hours while it runs). Not VIP yet? Use the **Become Insane Elite** button in AsylumRP.
 
 ### 🆕 New in v3.4
