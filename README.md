@@ -84,12 +84,12 @@ New to AsylumRP? Watch how to download, install and run it:
    ```
    AsylumRP/
    ├── AsylumRP.exe     ← double-click this to start
-   ├── _internal/       ← needed to run, don't move or delete it
+   ├── (support files)  ← needed to run, don't move or delete them
    └── How to use AsylumRP.txt   ← the full guide
    ```
 4. Double-click **AsylumRP.exe**.
 
-> ⚠️ **Keep `AsylumRP.exe` and `_internal` in the same folder.** If you want it on your desktop, make a shortcut instead of moving the exe: right-click `AsylumRP.exe` → **Send to → Desktop (create shortcut)**.
+> ⚠️ **Keep the whole AsylumRP folder together.** If you want it on your desktop, make a shortcut instead of moving the exe out: right-click `AsylumRP.exe` → **Send to → Desktop (create shortcut)**.
 
 **You need:** Windows 10 or 11, the **Discord desktop app** (the browser version of Discord can't show custom statuses), and the **VIP Insane Elite** role in [Anime Asylum](https://discord.gg/anime-asylum).
 
@@ -179,7 +179,7 @@ Example: Details `Activity Status` + URL `https://site.com/my-gif.gif` → click
 | **"Invalid Client ID"** | Re-copy the **Application ID** from the Developer Portal |
 | **Picture doesn't show** | Wait a few minutes after uploading, and check the name matches exactly |
 | **I can't see my buttons** | Normal. Discord hides your own buttons from you; others can see them |
-| **Program won't open** | Make sure `_internal` is in the same folder as `AsylumRP.exe` |
+| **Program won't open** | Make sure `AsylumRP.exe` is still inside the AsylumRP folder with its support files |
 | **Using Discord in a browser** | Custom statuses need the [Discord desktop app](https://discord.com/download). It can run in the background |
 | **AniList shows nothing** | Make sure your AniList list is public and the username is spelled right |
 | **Voice clip won't record** | Windows Settings → Privacy → Microphone → allow desktop apps |
