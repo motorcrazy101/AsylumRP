@@ -66,6 +66,9 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
 - 🔔 **Update checker:** AsylumRP tells you when a new version is out
 
+### 🆕 New in v3.4
+- 🧪 **Asylum Mod Menu** built in: install effects, themes, pranks and games for Discord in your web browser (Mod Menu → Install). An Insane Elite perk.
+
 ---
 
 ## ⬇️ Download & install
