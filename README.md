@@ -66,6 +66,9 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
 - 🔔 **Update checker:** AsylumRP tells you when a new version is out
 
+### 🆕 New in v3.5
+- 💎 **VIP access:** AsylumRP is now a perk for **VIP Insane Elite** members. Log in with Discord once and AsylumRP checks your Anime Asylum role (every 5 hours while it runs). Not VIP yet? Use the **Become Insane Elite** button in AsylumRP.
+
 ### 🆕 New in v3.4
 - 🧪 **Asylum Mod Menu** built in: install effects, themes, pranks and games for Discord in your web browser (Mod Menu → Install). An Insane Elite perk.
 
@@ -88,7 +91,11 @@ New to AsylumRP? Watch how to download, install and run it:
 
 > ⚠️ **Keep `AsylumRP.exe` and `_internal` in the same folder.** If you want it on your desktop, make a shortcut instead of moving the exe: right-click `AsylumRP.exe` → **Send to → Desktop (create shortcut)**.
 
-**You need:** Windows 10 or 11, and the **Discord desktop app** (the browser version of Discord can't show custom statuses).
+**You need:** Windows 10 or 11, the **Discord desktop app** (the browser version of Discord can't show custom statuses), and the **VIP Insane Elite** role in [Anime Asylum](https://discord.gg/anime-asylum).
+
+### 💎 Unlock with your VIP role
+The first time you open AsylumRP, click **Log in with Discord** → **Authorize** in your browser. AsylumRP checks you're in Anime Asylum with the VIP role, then opens. Use the same Discord account as your Discord app.
+AsylumRP only sees your username and your Anime Asylum roles: not your messages, servers or password. Your login stays on your PC.
 
 ### "Windows protected your PC"?
 AsylumRP is new, so Windows may warn you the first time. Click **More info → Run anyway**.

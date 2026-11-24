@@ -2,7 +2,7 @@
 
 **Effective date:** November 23, 2026
 
-These Terms of Service ("Terms") apply to **AsylumRP** (the "Software"), a free program made by **selfcentereddouchebag** (the "Developer") for the Anime Asylum community.
+These Terms of Service ("Terms") apply to **AsylumRP** (the "Software"), a program made by **selfcentereddouchebag** (the "Developer") for the Anime Asylum community.
 
 **By downloading, installing or using AsylumRP, you agree to these Terms.** If you don't agree, don't download or use the Software.
 
@@ -10,7 +10,7 @@ These Terms of Service ("Terms") apply to **AsylumRP** (the "Software"), a free 
 
 ## 1. What AsylumRP is
 
-AsylumRP is a free Windows program that lets you set a custom status (also called "Rich Presence") on your own Discord profile, using the Discord desktop app installed on your computer.
+AsylumRP is a Windows program that lets you set a custom status (also called "Rich Presence") on your own Discord profile, using the Discord desktop app installed on your computer.
 
 ## 2. Not affiliated with Discord
 
@@ -20,9 +20,15 @@ AsylumRP is an independent, fan-made tool. It is **not made, owned, endorsed or 
 
 You must be old enough to use Discord in your country (at least 13 in most places) to use AsylumRP.
 
-## 4. Free to use
+## 4. VIP access
 
-AsylumRP is free. You may download it and use it on your own computers for personal, non-commercial use.
+AsylumRP is a perk for members of the Anime Asylum Discord server who have the **VIP Insane Elite** role (or another role the Developer allows, such as VIP Staff). You may use it on your own computers for personal, non-commercial use while you have that role.
+
+- To use AsylumRP you log in with Discord. AsylumRP then checks, directly with Discord, that you're in Anime Asylum and have an allowed role. It re-checks when it opens and every few hours.
+- AsylumRP only receives your Discord user ID, username and your Anime Asylum roles. Your login is stored only on your own computer and is never sent to the Developer or anyone else.
+- If you lose the role (for example your subscription ends), AsylumRP stops working until you have it again. Your saved settings are kept.
+- VIP subscriptions are sold and managed through the Anime Asylum server's subscription provider, not through AsylumRP. Billing, refunds and cancellations follow that provider's terms.
+- Don't try to get around the VIP check, or share AsylumRP with people who aren't VIP members.
 
 ## 5. What you may not do
 
@@ -58,7 +64,8 @@ The Mod Menu's Script Executor runs any code you give it inside your logged-in D
 
 AsylumRP is designed to keep your information on your computer:
 
-- **No account, no sign-up and no password.** AsylumRP never asks for your Discord password or token.
+- **No sign-up and no password.** AsylumRP never asks for your Discord password or token. You log in through Discord's own "Authorize" page, and AsylumRP only receives your Discord user ID, username and Anime Asylum roles, to check your VIP access.
+- **Your VIP login is saved only on your computer**, encrypted, in `C:\Users\<your name>\.asylumrp\access.dat`. Help → Log Out of AsylumRP deletes it.
 - **Your settings are saved only on your computer**, in `C:\Users\<your name>\.asylumrp\profiles.json`.
 - **The Developer does not collect, receive, store or sell any of your data.** AsylumRP has no analytics or tracking.
 - AsylumRP talks to the **Discord app on your computer** to set your status. What you put in your status is then shown by Discord and handled under Discord's own privacy policy.
