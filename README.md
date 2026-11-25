@@ -42,7 +42,7 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🔗 **Clickable text:** turn your Details and State lines into links (a GIF, a site, a server invite, anything)
 - 🖼️ **Pictures:** large and small images with hover text and their own click links
 - 🔁 **Rotating statuses:** cycle through as many statuses as you want, automatically
-- 🧩 **Live variables:** `{app}`, `{time}`, `{cpu}`, `{ram}`, `{battery}`, `{random:a|b|c}` and more fill in by themselves
+- 🧩 **Live variables:** `{app}`, `{time}`, `{cpu}`, `{ram}`, `{battery}`, `{song}`, `{game}`, `{random:a|b|c}` and more fill in by themselves
 - 💤 **AFK mode:** switches to an away status when you leave your PC
 - ⏱️ **Timers:** count up from a date, count down to a date, show local time and more
 - 👥 **Party size:** show "(2 of 4)", up to 1500
@@ -51,25 +51,12 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🎨 **Themes:** Asylum (neon), Dark and Light
 - 🖥️ **Runs quietly:** minimizes to the tray, reconnects automatically and can start with Windows
 
-### 🆕 New in v3.3
-- 🌸 **AniList:** show what you're watching, with the anime's cover art, updated automatically
-- 📺 **Next episode countdown:** count down to an anime's next episode
-- 🎵 **Spotify:** show the song you're listening to with `{song}` and `{artist}`
-- 💬 **`{quote}`:** a random anime quote
-- 🤖 **App triggers & schedules:** switch profiles automatically when an app opens or at certain times
-- ⌨️ **Global hotkeys:** Ctrl+Alt shortcuts that work even when AsylumRP is hidden
-- 📚 **Study timer:** a Pomodoro timer that shows your study session on your status
-- 🎙️ **Voice clips:** record your voice and paste it into any Discord chat with Ctrl+V
-- 🎬 **Watch (no ads):** paste a video link and watch it ad-free with the built-in player
-- 🎶 **Now Playing:** show your Spotify or YouTube song automatically
-- 🎮 **Auto game status:** detects your game and shows "Playing <game>"
-- 🔴 **Twitch Live:** switches your status to LIVE when you start streaming
-- 🤐 **Streamer / Privacy mode:** hide app, song and PC stats in one click
-- 👥 **`{members}` / `{online}`:** live Anime Asylum member counts
-- 📋 **Community templates:** official Anime Asylum statuses, updated by us
-- 🔗 **Share codes:** share your whole setup as one short code
-- 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
-- 🔔 **Update checker:** AsylumRP tells you when a new version is out
+### 🆕 New in v3.6.1
+- 🔧 **Reliable startup:** "Run when Windows starts" now launches after a full shut down, and repairs its own entry if it ever points at the wrong file.
+- 🛡️ **Antivirus-friendly:** removed what was making Windows Defender false-flag the app.
+- 🗑️ **Built-in uninstaller:** **File → Uninstall AsylumRP…** — asks to back up first, then removes everything.
+- 🪟 **Resizable window** with a scrollbar, so it fits any screen.
+- 🔒 One-instance guard so AsylumRP never opens twice.
 
 ### 🆕 New in v3.6
 - 🎶 **Now Playing (universal):** your status can show your song from **Spotify or YouTube**, not just Spotify.
@@ -85,6 +72,21 @@ New to AsylumRP? Watch how to download, install and run it:
 
 ### 🆕 New in v3.4
 - 🧪 **Asylum Mod Menu** built in: install effects, themes, pranks and games for Discord in your web browser (Mod Menu → Install). An Insane Elite perk.
+
+### 🆕 New in v3.3
+- 🌸 **AniList:** show what you're watching, with the anime's cover art, updated automatically
+- 📺 **Next episode countdown:** count down to an anime's next episode
+- 🎵 **Spotify:** show the song you're listening to with `{song}` and `{artist}`
+- 💬 **`{quote}`:** a random anime quote
+- 🤖 **App triggers & schedules:** switch profiles automatically when an app opens or at certain times
+- ⌨️ **Global hotkeys:** Ctrl+Alt shortcuts that work even when AsylumRP is hidden
+- 📚 **Study timer:** a Pomodoro timer that shows your study session on your status
+- 🎙️ **Voice clips:** record your voice and paste it into any Discord chat with Ctrl+V
+- 👥 **`{members}` / `{online}`:** live Anime Asylum member counts
+- 📋 **Community templates:** official Anime Asylum statuses, updated by us
+- 🔗 **Share codes:** share your whole setup as one short code
+- 🖼️ **Picture picker, save preview as image, recent statuses, tray quick menu, backup & restore**
+- 🔔 **Update checker:** AsylumRP tells you when a new version is out
 
 ---
 
@@ -194,6 +196,7 @@ Example: Details `Activity Status` + URL `https://site.com/my-gif.gif` → click
 | **Picture doesn't show** | Wait a few minutes after uploading, and check the name matches exactly |
 | **I can't see my buttons** | Normal. Discord hides your own buttons from you; others can see them |
 | **Program won't open** | Make sure `AsylumRP.exe` is still inside the AsylumRP folder with its support files |
+| **Won't start with Windows** | Turn **Settings → Run When Windows Starts** off and back on, then open AsylumRP once |
 | **Using Discord in a browser** | Custom statuses need the [Discord desktop app](https://discord.com/download). It can run in the background |
 | **AniList shows nothing** | Make sure your AniList list is public and the username is spelled right |
 | **Voice clip won't record** | Windows Settings → Privacy → Microphone → allow desktop apps |
@@ -212,9 +215,9 @@ Open it with **File → Open Settings Folder** inside AsylumRP.
 
 AsylumRP also makes an automatic weekly backup in `.asylumrp\backups`, and you can make your own with **File → Backup Everything**. Voice clips are saved in `.asylumrp\clips`.
 
-**Updating:** AsylumRP tells you when a new version is out. Download it, replace your AsylumRP folder, and your profiles and settings are kept.
+**Updating:** AsylumRP tells you when a new version is out — click **Update Now** and it installs itself. Your profiles and settings are kept.
 
-**To uninstall:** turn off **Settings → Run When Windows Starts** (if it's on), quit AsylumRP, delete the AsylumRP folder, and optionally delete the `.asylumrp` folder above.
+**To uninstall:** use **File → Uninstall AsylumRP…** inside the app. It offers to back up your setup first, then removes the program files, your profiles and its startup entries.
 
 ---
 
