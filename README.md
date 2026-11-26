@@ -51,6 +51,11 @@ New to AsylumRP? Watch how to download, install and run it:
 - 🎨 **Themes:** Asylum (neon), Dark and Light
 - 🖥️ **Runs quietly:** minimizes to the tray, reconnects automatically and can start with Windows
 
+### 🆕 New in v3.7.0
+- 🏰 **Asylum Hub:** a live Anime Asylum dashboard right in the app — member count, who's online, who's in voice, your latest announcement, and one-click join. Powered by Discord's public server widget (no login, read-only).
+- 👻 **Virtual Patient:** adopt a little Asylum companion, keep it fed and happy, and watch it level up and evolve. Neglect it and it gets sick — but it can always be nursed back. Show it in your status with `{pet}`, `{pet_mood}` and `{pet_level}`.
+- 💾 **Save Video (Watch tab):** download any supported link as **MP4, MP3 or GIF** to a folder you choose. For personal use only — don't re-upload other people's videos.
+
 ### 🆕 New in v3.6.1
 - 🔧 **Reliable startup:** "Run when Windows starts" now launches after a full shut down, and repairs its own entry if it ever points at the wrong file.
 - 🛡️ **Antivirus-friendly:** removed what was making Windows Defender false-flag the app.
